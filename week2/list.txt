@@ -1,0 +1,13 @@
+universe
+star
+moon
+sun
+cloud
+stardust
+asteroid
+galaxy
+planet
+earth
+comet
+constellation
+satellite
